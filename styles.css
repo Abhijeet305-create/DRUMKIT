@@ -25,7 +25,7 @@ footer {
 }
 
 .a {
-  background-image: url(images/tom2.png);
+  background-image: url(tom2.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -33,7 +33,7 @@ footer {
 }
 
 .s {
-  background-image: url(images/tom3.png);
+  background-image: url(tom3.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -41,7 +41,7 @@ footer {
 }
 
 .d {
-  background-image: url(images/tom4.png);
+  background-image: url(tom4.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -49,7 +49,7 @@ footer {
 }
 
 .j {
-  background-image: url(images/crash.png);
+  background-image: url(crash.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -57,7 +57,7 @@ footer {
 }
 
 .k {
-  background-image: url(images/kick.png);
+  background-image: url(kick.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -65,7 +65,7 @@ footer {
 }
 
 .l {
-  background-image: url(images/snare.png);
+  background-image: url(snare.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
